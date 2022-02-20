@@ -1,0 +1,12 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: blanchedalmond
+}
+
+.head {
+    font-size: 36px;
+    color: rgb(29, 71, 54);
+    font-style: bold;
+    text-align: center;
+}
